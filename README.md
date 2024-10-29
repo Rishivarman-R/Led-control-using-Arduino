@@ -1,7 +1,7 @@
-# Led-control-using-Arduino
-###NAME:rishivarman R
-###REG NO:24900419
-#EXPERIMENT 1:Led control arduino
+
+### NAME:RISHIVARMAN<br>
+### REG NO:24900419
+# EXPERIMENT 1:Led control using arduino
 
 
 
@@ -93,11 +93,12 @@ if(buttonstatus==HIGH)
 
 
 ## OUTPUT
-
+LED OFF<br>
 <img src="https://github.com/user-attachments/assets/cc6e7b5f-8298-4618-9fbe-6e4771f0852b"
      width="700"
      height="500"/>
-
+     
+LED ON<br>
 <img src="https://github.com/user-attachments/assets/211afb91-28fd-4763-887a-9aca7b2b167d"
      width="700"
      height="500"/>
@@ -105,5 +106,5 @@ if(buttonstatus==HIGH)
 
 
 ## RESULT
-design and implemented a system for LED control using an Arduino microcontroller and a push button successfully.
+D and implemented a system for LED control using an Arduino microcontroller and a push button successfully.
 
